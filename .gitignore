@@ -1,0 +1,4 @@
+# git에서 추적하지 않게 해줌
+build/
+.gradle/
+.idea/
